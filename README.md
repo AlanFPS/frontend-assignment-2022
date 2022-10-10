@@ -1,3 +1,15 @@
+# Frontend Assignment 2022
+
+Goal: Create a carrousel that displays images and automatically animates to the next image and back when it reaches the end.
+
+**Requirements**:
+- "Fetch" Data via the pre-written `getDataAsync()` method
+- The carrousel displays one image at a time
+- The carrousel will display a new image after a few seconds
+- There should be an option to manually go to the next and previous image
+
+The `getDataAsync()` method returns a Promise which resolves the required data for this assignment. You are required to use this method.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
