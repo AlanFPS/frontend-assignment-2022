@@ -6,7 +6,7 @@ Goal: Create a carrousel that displays images and automatically animates to the 
 - "Fetch" Data via the pre-written `getDataAsync()` method
 - The carrousel displays one image at a time
 - The carrousel will display a new image after a few seconds
-- There should be an option to manually go to the next and previous image with the provided chevron icons
+- There should be an option to manually go to the next and previous image with the provided chevron icons in `src/assets`
 - Do not use a third-party package. This is lazy and does not show your skill level :)
 
 **Optional**:
