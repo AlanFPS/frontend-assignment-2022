@@ -3,6 +3,7 @@
 Goal: Create a carrousel that displays images and automatically animates to the next image and back when it reaches the end.
 
 **Requirements**:
+
 - "Fetch" Data via the pre-written `getDataAsync()` method
 - The carrousel displays one image at a time
 - The carrousel will display a new image after a few seconds
@@ -10,10 +11,11 @@ Goal: Create a carrousel that displays images and automatically animates to the 
 - Do not use a third-party package. This is lazy and does not show your skill level :)
 
 **Optional**:
+
 - Animate between the two images when transitioning
 - Display the title of the current image inside the carrousel
 
-The `getDataAsync()` method returns a Promise which resolves the required data for this assignment. 
+The `getDataAsync()` method returns a Promise which resolves the required data for this assignment.
 You are required to use this method. This method is exported from `src/data.ts`.
 
 # Getting Started with Create React App
